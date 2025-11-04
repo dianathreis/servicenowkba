@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6d6cc224c3f8b65010d5160ed4013184" label="abc" max_length="40" name="x_1639249_git_abc1" type="collection">
+        <element label="ABC" max_length="100" name="abc" type="string"/>
+        <element display="true" label="testy" max_length="40" name="testy" type="string"/>
+    </element>
+</database>
